@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5d4520b6-4a30-4e39-8716-5e534a7bb5bc%2Fcover-reactjs.png?table=block&id=b9f0f025-c95b-4376-99d0-c3115f55b0f1&width=5120&userId=c1e3fa1a-7b13-4263-80da-584276431758&cache=v2" width="43%">
-  <img src="https://github.com/CristianWesleyFront/Ignite-ReactJS-Movies/blob/master/public/Print.png" width="40%">
+  <img src="https://raw.githubusercontent.com/CristianWesleyFront/Ignite-ReactJS-Movies/master/public/Print.png" width="40%">
 </h1>
 
 ## 🚀 Indice
